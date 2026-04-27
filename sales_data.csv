@@ -1,0 +1,11 @@
+Order Date,Region,Category,Sales,Profit
+2023-01-05,West,Technology,500,120
+2023-01-10,East,Furniture,300,50
+2023-02-12,South,Office Supplies,200,40
+2023-02-18,West,Technology,700,200
+2023-03-02,North,Furniture,400,80
+2023-03-15,East,Technology,650,150
+2023-04-01,South,Office Supplies,250,60
+2023-04-10,West,Furniture,550,90
+2023-05-05,North,Technology,800,220
+2023-05-20,East,Office Supplies,300,70
