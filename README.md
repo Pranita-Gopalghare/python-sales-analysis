@@ -20,7 +20,8 @@ Analyze sales data using Python to extract insights.
 ---
 
 ## 📸 Output  
-![Python Output](python_output.png)
+![Python Output] <img width="1540" height="783" alt="image" src="https://github.com/user-attachments/assets/674f1121-0d87-4ce2-a3ce-15f6b6af19ce" />
+
 
 ---
 
